@@ -1,1 +1,23 @@
+============================================================
+ADAPTIVE FAIR-VALUE & MARKET-MAKING RESEARCH SYSTEM
+============================================================
+Runs                    : 100
 
+Adaptive mean P&L       : -46.45
+Baseline mean P&L       : 12.18
+Adaptive median P&L     : -36.11
+Baseline median P&L     : 21.13
+
+Adaptive mean Sharpe    : -0.0434
+Baseline mean Sharpe    : 0.0070
+
+Adaptive mean drawdown  : 0.1564%
+Baseline mean drawdown  : 0.3112%
+
+Adaptive mean inventory : 30.07
+Baseline mean inventory : 87.50
+
+Adaptive win rate       : 50.00%
+
+Adaptive 95% P&L CI    : [-59.84, -33.05]
+Baseline 95% P&L CI    : [-20.70, 45.06]
