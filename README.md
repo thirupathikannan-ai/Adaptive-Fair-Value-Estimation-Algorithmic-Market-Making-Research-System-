@@ -390,7 +390,7 @@ The current implementation was evaluated across **100 independent simulations**.
 | Median P&L | -36.11 | 21.13 |
 | Mean Sharpe | -0.0434 | 0.0070 |
 | Mean Drawdown | 0.1564% | 0.3112% |
-| Mean Inventory | 30.08 | 87.50 |
+| Mean Inventory | 30.07 | 87.50 |
 | Win Rate | 50.00% | — |
 
 ### 95% P&L Confidence Interval
@@ -557,7 +557,8 @@ Adaptive-Fair-Value-Estimation-Algorithmic-Market-Making/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Adaptive-Fair-Value-Estimation-Algorithmic-Market-Making.git
+git clone
+https://github.com/thirupathikannan-ai/Adaptive-Fair-Value-Estimation-Algorithmic-Market-Making-Research-System-.git
 ```
 
 Enter the project directory:
